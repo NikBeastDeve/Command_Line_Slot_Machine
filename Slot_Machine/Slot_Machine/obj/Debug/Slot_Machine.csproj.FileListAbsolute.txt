@@ -1,0 +1,7 @@
+C:\Users\NikBeastDeve\source\repos\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.exe.config
+C:\Users\NikBeastDeve\source\repos\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.exe
+C:\Users\NikBeastDeve\source\repos\Slot_Machine\Slot_Machine\bin\Debug\Slot_Machine.pdb
+C:\Users\NikBeastDeve\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.csprojAssemblyReference.cache
+C:\Users\NikBeastDeve\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.csproj.CoreCompileInputs.cache
+C:\Users\NikBeastDeve\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.exe
+C:\Users\NikBeastDeve\source\repos\Slot_Machine\Slot_Machine\obj\Debug\Slot_Machine.pdb
